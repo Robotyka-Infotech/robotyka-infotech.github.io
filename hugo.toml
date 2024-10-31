@@ -3,6 +3,7 @@ languageCode = 'pl-pl'
 title = 'R0b0tyk4 Inf0t3ch'
 theme = 'terminal'
 subtitle = "najbardziej nie rozwijajace sie kolo naukowe"
+copyright = 'Copyright (C) 2024 Infotech'
 
 [sitemap]
 changefreq = "daily"
