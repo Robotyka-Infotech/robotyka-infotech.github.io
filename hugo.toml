@@ -1,4 +1,4 @@
-baseUrl = 'https://robotyka-infotech.github.io/websitev1/'
+baseUrl = 'https://robotyka-infotech.github.io/'
 languageCode = 'pl-pl'
 title = 'R0b0tyk4 Inf0t3ch'
 theme = 'terminal'
