@@ -1,0 +1,20 @@
+languageCode = 'pl-pl'
+title = 'R0b0tyk4 Inf0t3ch'
+theme = 'terminal'
+subtitle = "najbardziej nie rozwijajace sie kolo naukowe"
+
+[sitemap]
+changefreq = "daily"
+priority = -1
+
+[pagination]
+pager_size = 5
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+centerTheme = true
+
+[params.logo]
+logoText = "R0b0tyk4 Inf0t3ch"
